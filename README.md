@@ -50,7 +50,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Developer**: Vaibhav Sarkar
 - **GitHub**: [DeveloperVaibhav1](https://github.com/DeveloperVaibhav1)
 - **Email**: sarkarvaibhav20@gmail.com
-- **LinkedIn**: [Vaibhav Sarkar](https://www.linkedin.com/in/vaibhav-sarkar/)
+- **LinkedIn**: [Vaibhav Sarkar](https://www.linkedin.com/in/vaibhav-sarkar-87181027b/)
 
 ---
 
