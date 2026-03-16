@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
 ## Usage
 - Add your video files to the `video_container` directory.
-- Modify the `index.html` file to update the video sources if necessary.
+- Modify the `index.html` file to update the video sources if necessary
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue.
